@@ -1,0 +1,7 @@
+﻿*.bzc
+*.lzc
+*.szc
+*.out
+*.tmp
+__pycache__/
+sortie/
